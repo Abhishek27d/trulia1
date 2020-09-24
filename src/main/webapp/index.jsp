@@ -7,6 +7,7 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>The number one real estate search engine!</h2>
+<h1>The number one real estate search engine!</h1>
+<h2>We are stronger together with zillow</h2>
 </body>
 </html>
